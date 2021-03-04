@@ -1,0 +1,20 @@
+Commands:
+
+>help
+>invite
+>leave
+>loop
+>lyrics
+>nowplaying
+>pause
+>play
+>playlist
+>queue
+>remove
+>shuffle
+>skip
+>skipto
+>stop
+>volume
+
+Will be adding command details soon <3
